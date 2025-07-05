@@ -13,7 +13,6 @@ A Python-based command-line tool for managing Azure Cost Management anomaly aler
 - 📊 **Alert Status Monitoring**: Check existing alerts and their expiration dates
 - ⚠️ **Expired Alert Detection**: Identify subscriptions with expired alerts
 - 🤖 **Automated Mode**: Run in unattended mode with command-line arguments
-- 🎨 **Rich CLI Interface**: Beautiful colored output with progress indicators
 - 🔄 **Smart Alert Replacement**: Automatically replaces expired alerts with new ones
 - 🛡️ **Enhanced Error Handling**: Comprehensive retry logic and error recovery
 - 📈 **Extended Alert Duration**: 5-year alert validity period for long-term monitoring
